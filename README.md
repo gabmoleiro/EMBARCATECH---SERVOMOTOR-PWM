@@ -2,6 +2,9 @@
 
 Este repositório contém a implementação de um sistema de controle de um servomotor utilizando PWM no microcontrolador Raspberry Pi Pico W, programado em C com o Pico SDK. O sistema simula o controle do ângulo do servomotor, ajustando suas posições para 0°, 90° e 180°, e realiza um movimento suave entre esses ângulos. Além disso, um LED RGB é controlado para indicar o movimento do servomotor.
 
+## Video demostração
+https://drive.google.com/drive/folders/1W9t1dsXdlaQFAhX3lOUYoyne6iBXF_fo?usp=sharing
+
 ## Requisitos
 Para executar este projeto, é necessário:
 
